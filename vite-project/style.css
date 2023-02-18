@@ -1,0 +1,42 @@
+
+body{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+main{
+  height: 900vh;
+  
+}
+.carousel-item-active {
+  height: 32rem;
+  background-color: white;
+}
+
+.carousel-item {
+  height: 32rem;
+  background-color: aliceblue;
+  color: black;
+  position: relative;
+}
+
+.container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding-bottom: 9vw;
+
+}
+
+.head1{
+  margin-top: 20px;
+  margin-left: 50px;  
+  color: black
+}
+
+.card-group{
+  margin-top: 90px;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
